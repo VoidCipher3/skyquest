@@ -672,5 +672,37 @@
             "Hidden Forest Treasure Candle-2",
             "Daylight Prairie Season Candle group:b-2"
         ]
+    },
+    "2026-07-23": {
+        "tw": [
+            "找到雨林的彩虹蠟燭",
+            "向一位玩家揮手",
+            "重溫白日夢森林人在雨林的記憶",
+            "收集 橙色光芒"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-2",
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "在雨林找到彩虹蜡烛",
+            "向一位玩家挥手",
+            "在雨林重温白日梦森林人的记忆",
+            "收集 橙色光芒"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-2",
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Find the candles at the end of the rainbow in the Hidden Forest",
+            "Wave to a player",
+            "Relive Daydream Forester's memory from Hidden Forest",
+            "Collect Orange Light"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-2",
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
