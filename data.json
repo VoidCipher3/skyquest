@@ -1,0 +1,69 @@
+{
+    "updated_at": "2026-07-22 17:28:49 (GMT+8)",
+    "tw": {
+        "title": "繁體中文",
+        "date_today": "2026-07-22",
+        "date_tomorrow": "2026-07-23",
+        "quests_today": [
+            "對 5 位不同玩家發出叫聲",
+            "抓住雲野之光",
+            "收集 綠色光芒",
+            "重溫揮手鐘匠在雲野的記憶"
+        ],
+        "quests_tomorrow": [
+            "找到雨林的彩虹蠟燭",
+            "向一位玩家揮手",
+            "重溫白日夢森林人在雨林的記憶",
+            "收集 橙色光芒"
+        ],
+        "candles_today": [
+            "雨林大蠟燭-2",
+            "雲野季蠟b組-2"
+        ],
+        "candles_tomorrow": []
+    },
+    "cn": {
+        "title": "简体中文",
+        "date_today": "2026-07-22",
+        "date_tomorrow": "2026-07-23",
+        "quests_today": [
+            "呼唤5位不同玩家",
+            "抓住云野之光",
+            "收集 绿色光芒",
+            "在云野重温挥手钟匠的记忆"
+        ],
+        "quests_tomorrow": [
+            "在雨林找到彩虹蜡烛",
+            "向一位玩家挥手",
+            "在雨林重温白日梦森林人的记忆",
+            "收集 橙色光芒"
+        ],
+        "candles_today": [
+            "雨林大蜡烛-2",
+            "云野季蜡b组-2"
+        ],
+        "candles_tomorrow": []
+    },
+    "en": {
+        "title": "English",
+        "date_today": "2026-07-22",
+        "date_tomorrow": "2026-07-23",
+        "quests_today": [
+            "Call to 5 different players",
+            "Catch the light in Daylight Prairie",
+            "Collect Green Light",
+            "Relive Waving Bellmaker's memory from Daylight Prairie"
+        ],
+        "quests_tomorrow": [
+            "Find the candles at the end of the rainbow in the Hidden Forest",
+            "Wave to a player",
+            "Relive Daydream Forester's memory from Hidden Forest",
+            "Collect Orange Light"
+        ],
+        "candles_today": [
+            "Hidden Forest Treasure Candle-2",
+            "Daylight Prairie Season Candle group:b-2"
+        ],
+        "candles_tomorrow": []
+    }
+}

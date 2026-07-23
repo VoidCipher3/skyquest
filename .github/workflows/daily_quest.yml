@@ -1,0 +1,62 @@
+name: Fetch Sky Daily Quest & deploy
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: skyquest
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run-Quest-logic:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch & build
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 5
+          max_attempts: 3
+          retry_wait_seconds: 20
+          command: "python main.py"
+        env:
+          B: ${{ secrets.B }}
+          B1: ${{ secrets.B1 }}
+
+          QUEST_TW_1: ${{ secrets.QUEST_TW }}
+          QUEST_EN_1: ${{ secrets.QUEST_EN_1 }}
+          QUEST_EN_2: ${{ secrets.QUEST_EN_2 }}
+          QUEST_CN_1: ${{ secrets.QUEST_CN }}
+
+          SCRIPT: ${{ secrets.SCRIPT }}
+
+      - name: Deploy Worker (site + API)
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 5
+          max_attempts: 3
+          retry_wait_seconds: 20
+          command: cd worker && npx wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json archive/
+          git commit -m "Update data & archive $(TZ='Asia/Taipei' date +%Y-%m-%d)" || exit 0
+          git push
