@@ -736,5 +736,37 @@
             "Valley of Triumph Season Candle group:b-2",
             "Gloden Wasteland Treasure Candle-2"
         ]
+    },
+    "2026-07-25": {
+        "tw": [
+            "在暗蟹沙原冥想",
+            "向一位玩家鞠躬",
+            "重溫行禮艦長在暮土的記憶",
+            "抱起一隻暗蟹"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "暮土季蠟b組-1"
+        ],
+        "cn": [
+            "在暗蟹沙原冥想",
+            "向一位玩家鞠躬",
+            "在暮土重温行礼舰长的记忆",
+            "抱起一只暗蟹"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "暮土季蜡b组-1"
+        ],
+        "en": [
+            "Meditate in the Crab Fields",
+            "Bow at a player",
+            "Relive Saluting Captain's memory from Golden Wasteland",
+            "Pick up a Crab"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:b-1"
+        ]
     }
 }
