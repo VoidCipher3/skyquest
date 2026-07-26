@@ -768,5 +768,37 @@
             "Vault of Knowledge Treasure Candle-1",
             "Gloden Wasteland Season Candle group:b-1"
         ]
+    },
+    "2026-07-26": {
+        "tw": [
+            "和朋友牽手",
+            "與沉思編導一同冥想",
+            "找到禁閣的彩虹蠟燭",
+            "在禁閣上層捕捉四散的光"
+        ],
+        "candles_tw": [
+            "禁閣季蠟b組-1",
+            "雲野大蠟燭-3"
+        ],
+        "cn": [
+            "和朋友牵手",
+            "与沉思编导一同冥想",
+            "在禁阁找到彩虹蜡烛",
+            "在禁阁上层捕捉四散的光"
+        ],
+        "candles_cn": [
+            "禁阁季蜡b组-1",
+            "云野大蜡烛-3"
+        ],
+        "en": [
+            "Hold a friend's hand",
+            "Meditate with Thoughtful Director",
+            "Find the candles at the end of the rainbow in the Vault of Knowledge",
+            "Catch the wandering lights in the Upper Vault"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:b-1",
+            "Daylight Prairie Treasure Candle-3"
+        ]
     }
 }
