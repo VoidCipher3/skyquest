@@ -800,5 +800,37 @@
             "Vault of Knowledge Season Candle group:b-1",
             "Daylight Prairie Treasure Candle-3"
         ]
+    },
+    "2026-07-27": {
+        "tw": [
+            "欣賞一下雲野小樹苗",
+            "對其他玩家使用表情",
+            "在蝴蝶原野與眾多蝴蝶一同飛翔",
+            "在雲野村莊捕捉四散的光"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-1"
+        ],
+        "cn": [
+            "坐赏云野小树苗",
+            "对玩家使用表情",
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "在云野村庄中捕捉四散的光"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-3",
+            "云野季蜡b组-1"
+        ],
+        "en": [
+            "Admire the sapling in Daylight Prairie for a short while",
+            "Use expressions with players",
+            "Fly with many butterflies in Butterfly Fields",
+            "Catch the wandering lights in Prairie Village"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-1"
+        ]
     }
 }
