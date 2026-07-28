@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-07-27 15:00:29 (GMT+8)",
+    "updated_at": "2026-07-28 15:00:48 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-07-27",
-        "date_tomorrow": "2026-07-28",
+        "date_today": "2026-07-28",
+        "date_tomorrow": "2026-07-29",
         "quests_today": [
-            "欣賞一下雲野小樹苗",
-            "對其他玩家使用表情",
-            "在蝴蝶原野與眾多蝴蝶一同飛翔",
-            "在雲野村莊捕捉四散的光"
-        ],
-        "quests_tomorrow": [
             "對 5 位不同玩家發出叫聲",
             "在風之大道捕捉四散的光",
             "在風之大道欣賞一下彩虹",
             "重溫一位先靈的記憶"
         ],
+        "quests_tomorrow": [
+            "用燭光凝聚成一根蠟燭",
+            "重溫迴旋大師在霞谷的記憶",
+            "拜訪圓夢村的溫泉",
+            "向一位玩家揮手"
+        ],
         "candles_today": [
-            "雨林大蠟燭-3",
-            "雲野季蠟b組-1"
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-07-27",
-        "date_tomorrow": "2026-07-28",
+        "date_today": "2026-07-28",
+        "date_tomorrow": "2026-07-29",
         "quests_today": [
-            "坐赏云野小树苗",
-            "对玩家使用表情",
-            "在蝴蝶原野与众多蝴蝶一同飞翔",
-            "在云野村庄中捕捉四散的光"
-        ],
-        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "在风之大道捕捉漫游之光",
             "在风之大道欣赏一下彩虹",
             "重温一位先灵的记忆"
         ],
+        "quests_tomorrow": [
+            "用烛光凝聚成一根蜡烛",
+            "在霞谷重温回旋大师的记忆",
+            "拜访园梦村的温泉",
+            "向一位玩家挥手"
+        ],
         "candles_today": [
-            "雨林大蜡烛-3",
-            "云野季蜡b组-1"
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-07-27",
-        "date_tomorrow": "2026-07-28",
+        "date_today": "2026-07-28",
+        "date_tomorrow": "2026-07-29",
         "quests_today": [
-            "Admire the sapling in Daylight Prairie for a short while",
-            "Use expressions with players",
-            "Fly with many butterflies in Butterfly Fields",
-            "Catch the wandering lights in Prairie Village"
-        ],
-        "quests_tomorrow": [
             "Call to 5 different players",
             "Catch the wandering lights in The Wind Paths",
             "Admire the rainbow in the Wind Paths for a short while",
             "Relive a Spirit's memories"
         ],
+        "quests_tomorrow": [
+            "Forge a candle",
+            "Relive Spinning Mentor's memory from Valley of Triumph",
+            "Visit the Hotspring in the Village of Dreams",
+            "Wave to a player"
+        ],
         "candles_today": [
-            "Hidden Forest Treasure Candle-3",
-            "Daylight Prairie Season Candle group:b-1"
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-2"
         ],
         "candles_tomorrow": []
     }

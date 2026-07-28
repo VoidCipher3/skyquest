@@ -832,5 +832,37 @@
             "Hidden Forest Treasure Candle-3",
             "Daylight Prairie Season Candle group:b-1"
         ]
+    },
+    "2026-07-28": {
+        "tw": [
+            "對 5 位不同玩家發出叫聲",
+            "在風之大道捕捉四散的光",
+            "在風之大道欣賞一下彩虹",
+            "重溫一位先靈的記憶"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-2"
+        ],
+        "cn": [
+            "呼唤5位不同玩家",
+            "在风之大道捕捉漫游之光",
+            "在风之大道欣赏一下彩虹",
+            "重温一位先灵的记忆"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-2"
+        ],
+        "en": [
+            "Call to 5 different players",
+            "Catch the wandering lights in The Wind Paths",
+            "Admire the rainbow in the Wind Paths for a short while",
+            "Relive a Spirit's memories"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-2"
+        ]
     }
 }
