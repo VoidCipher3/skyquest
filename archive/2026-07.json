@@ -864,5 +864,37 @@
             "Hidden Forest Season Candle group:b-1",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-07-29": {
+        "tw": [
+            "用燭光凝聚成一根蠟燭",
+            "重溫迴旋大師在霞谷的記憶",
+            "拜訪圓夢村的溫泉",
+            "向一位玩家揮手"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-3"
+        ],
+        "cn": [
+            "用烛光凝聚成一根蜡烛",
+            "在霞谷重温回旋大师的记忆",
+            "拜访园梦村的温泉",
+            "向一位玩家挥手"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-3"
+        ],
+        "en": [
+            "Forge a candle",
+            "Relive Spinning Mentor's memory from Valley of Triumph",
+            "Visit the Hotspring in the Village of Dreams",
+            "Wave to a player"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-3"
+        ]
     }
 }
