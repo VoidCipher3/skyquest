@@ -30,5 +30,37 @@
             "Daylight Prairie Season Candle group:b-1",
             "Hidden Forest Treasure Candle-1"
         ]
+    },
+    "2026-08-02": {
+        "tw": [
+            "透過光菇重新恢復能量",
+            "幫助旋轉舞者與羞澀勘探者共舞",
+            "對其他玩家使用表情",
+            "點亮 20 根蠟燭"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "用光菇重新恢复能量",
+            "帮助旋转舞者与羞涩勘探者共舞一曲",
+            "对玩家使用表情",
+            "点亮 20 根蜡烛"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Recharge your light from a light bloom",
+            "Help Festival Spin Dancer dance with Blushing Prospector",
+            "Use expressions with players",
+            "Light 20 candles"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
