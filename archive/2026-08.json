@@ -62,5 +62,37 @@
             "Hidden Forest Season Candle group:b-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-08-03": {
+        "tw": [
+            "重溫一位霞谷先靈的記憶",
+            "對 5 位不同玩家發出叫聲",
+            "沿著霞谷下層賽道捕捉四散的光",
+            "在霞谷神廟冥想"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "在霞谷中重温一位先灵的记忆",
+            "呼唤5位不同玩家",
+            "在下层霞谷赛道捕捉漫游之光",
+            "在霞谷神庙冥想"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Relive a Spirit's memories in Valley of Triumph",
+            "Call to 5 different players",
+            "Catch the wandering lights along the Lower Valley Track",
+            "Meditate at the Temple of the Valley"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
