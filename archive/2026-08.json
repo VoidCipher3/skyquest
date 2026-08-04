@@ -94,5 +94,37 @@
             "Valley of Triumph Season Candle group:b-1",
             "Gloden Wasteland Treasure Candle-1"
         ]
+    },
+    "2026-08-04": {
+        "tw": [
+            "抓住暮土之光",
+            "淨化 10 處黑暗腐植",
+            "向一位玩家揮手",
+            "重溫隱秘倖存者在暮土的記憶"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "暮土季蠟b組-1"
+        ],
+        "cn": [
+            "抓住暮土之光",
+            "净化 10 处黑暗腐植",
+            "向一位玩家挥手",
+            "在暮土重温隐秘幸存者的记忆"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "暮土季蜡b组-1"
+        ],
+        "en": [
+            "Catch the light in Golden Wasteland",
+            "Melt 10 darkness",
+            "Wave to a player",
+            "Relive Stealthy Survivor's memory from Golden Wasteland"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:b-1"
+        ]
     }
 }
