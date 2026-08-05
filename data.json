@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-08-04 15:00:37 (GMT+8)",
+    "updated_at": "2026-08-05 22:00:48 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-08-04",
-        "date_tomorrow": "2026-08-05",
+        "date_today": "2026-08-05",
+        "date_tomorrow": "2026-08-06",
         "quests_today": [
-            "抓住暮土之光",
-            "淨化 10 處黑暗腐植",
-            "向一位玩家揮手",
-            "重溫隱秘倖存者在暮土的記憶"
-        ],
-        "quests_tomorrow": [
             "和陌生人坐在長凳上",
             "欣賞一下禁閣小樹苗",
             "用燭光凝聚成一根蠟燭",
             "重溫一位禁閣先靈的記憶"
         ],
+        "quests_tomorrow": [
+            "收集 30 道燭光",
+            "和獻情演員一起學習如何演奏樂器",
+            "在浮石鳥巢捕捉四散的光",
+            "在浮石鳥巢旁冥想"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-1",
-            "暮土季蠟b組-1"
+            "禁閣季蠟b組-1",
+            "雲野大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-08-04",
-        "date_tomorrow": "2026-08-05",
+        "date_today": "2026-08-05",
+        "date_tomorrow": "2026-08-06",
         "quests_today": [
-            "抓住暮土之光",
-            "净化 10 处黑暗腐植",
-            "向一位玩家挥手",
-            "在暮土重温隐秘幸存者的记忆"
-        ],
-        "quests_tomorrow": [
             "和陌生人坐在长凳上",
             "坐赏禁阁小树苗",
             "用烛光凝聚成一根蜡烛",
             "在禁阁中重温一位先灵的记忆"
         ],
+        "quests_tomorrow": [
+            "收集 30 道烛光",
+            "和献情演员一起学习如何演奏乐器",
+            "在浮石鸟巢周围捕捉四散的光",
+            "在浮石鸟巢旁冥想"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-1",
-            "暮土季蜡b组-1"
+            "禁阁季蜡b组-1",
+            "云野大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-08-04",
-        "date_tomorrow": "2026-08-05",
+        "date_today": "2026-08-05",
+        "date_tomorrow": "2026-08-06",
         "quests_today": [
-            "Catch the light in Golden Wasteland",
-            "Melt 10 darkness",
-            "Wave to a player",
-            "Relive Stealthy Survivor's memory from Golden Wasteland"
-        ],
-        "quests_tomorrow": [
             "Sit on a bench with a stranger",
             "Admire the sapling in the Vault of Knowledge for a short while",
             "Forge a candle",
             "Relive a Spirit's memories in Vault of Knowledge"
         ],
+        "quests_tomorrow": [
+            "Collect 30 pieces of light",
+            "Learn how to play the instrument with Admiring Actor",
+            "Catch the wandering lights around the Bird Nest",
+            "Meditate by the Bird Nest"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-1",
-            "Gloden Wasteland Season Candle group:b-1"
+            "Vault of Knowledge Season Candle group:b-1",
+            "Daylight Prairie Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }

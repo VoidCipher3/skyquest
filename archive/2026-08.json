@@ -126,5 +126,37 @@
             "Vault of Knowledge Treasure Candle-1",
             "Gloden Wasteland Season Candle group:b-1"
         ]
+    },
+    "2026-08-05": {
+        "tw": [
+            "和陌生人坐在長凳上",
+            "欣賞一下禁閣小樹苗",
+            "用燭光凝聚成一根蠟燭",
+            "重溫一位禁閣先靈的記憶"
+        ],
+        "candles_tw": [
+            "禁閣季蠟b組-1",
+            "雲野大蠟燭-1"
+        ],
+        "cn": [
+            "和陌生人坐在长凳上",
+            "坐赏禁阁小树苗",
+            "用烛光凝聚成一根蜡烛",
+            "在禁阁中重温一位先灵的记忆"
+        ],
+        "candles_cn": [
+            "禁阁季蜡b组-1",
+            "云野大蜡烛-1"
+        ],
+        "en": [
+            "Sit on a bench with a stranger",
+            "Admire the sapling in the Vault of Knowledge for a short while",
+            "Forge a candle",
+            "Relive a Spirit's memories in Vault of Knowledge"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:b-1",
+            "Daylight Prairie Treasure Candle-1"
+        ]
     }
 }
