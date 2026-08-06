@@ -158,5 +158,37 @@
             "Vault of Knowledge Season Candle group:b-1",
             "Daylight Prairie Treasure Candle-1"
         ]
+    },
+    "2026-08-06": {
+        "tw": [
+            "收集 30 道燭光",
+            "和獻情演員一起學習如何演奏樂器",
+            "在浮石鳥巢捕捉四散的光",
+            "在浮石鳥巢旁冥想"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-2",
+            "雲野季蠟b組-2"
+        ],
+        "cn": [
+            "收集 30 道烛光",
+            "和献情演员一起学习如何演奏乐器",
+            "在浮石鸟巢周围捕捉四散的光",
+            "在浮石鸟巢旁冥想"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-2",
+            "云野季蜡b组-2"
+        ],
+        "en": [
+            "Collect 30 pieces of light",
+            "Learn how to play the instrument with Admiring Actor",
+            "Catch the wandering lights around the Bird Nest",
+            "Meditate by the Bird Nest"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-2",
+            "Daylight Prairie Season Candle group:b-2"
+        ]
     }
 }
