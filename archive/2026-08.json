@@ -254,5 +254,37 @@
             "Valley of Triumph Season Candle group:b-2",
             "Gloden Wasteland Treasure Candle-2"
         ]
+    },
+    "2026-08-09": {
+        "tw": [
+            "對其他玩家使用表情",
+            "幫助拋球雜耍與迎賓侍者一起拯救祂們的朋友",
+            "和朋友牽手",
+            "欣賞一下暮土小樹苗"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-2",
+            "暮土季蠟b組-2"
+        ],
+        "cn": [
+            "对玩家使用表情",
+            "帮助抛球杂耍者和迎宾侍者拯救他们的朋友",
+            "和朋友牵手",
+            "坐赏暮土小树苗"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-2",
+            "暮土季蜡b组-2"
+        ],
+        "en": [
+            "Use expressions with players",
+            "Help Troupe Juggler and Troupe Greeter save their friends",
+            "Hold a friend's hand",
+            "Admire the sapling in Golden Wasteland for a short while"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:b-2"
+        ]
     }
 }
