@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-08-09 15:00:40 (GMT+8)",
+    "updated_at": "2026-08-10 15:01:10 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-08-09",
-        "date_tomorrow": "2026-08-10",
+        "date_today": "2026-08-10",
+        "date_tomorrow": "2026-08-11",
         "quests_today": [
-            "對其他玩家使用表情",
-            "幫助拋球雜耍與迎賓侍者一起拯救祂們的朋友",
-            "和朋友牽手",
-            "欣賞一下暮土小樹苗"
-        ],
-        "quests_tomorrow": [
             "在禁閣的入口處進行冥想。",
             "加入表演，為喪子的退伍老兵演奏一首歌",
             "在知識庫避難所捕捉四散的光",
             "和朋友擁抱"
         ],
+        "quests_tomorrow": [
+            "對 5 位不同玩家發出叫聲",
+            "找到雲野的彩虹蠟燭",
+            "重溫鼓掌鐘匠在雲野的記憶",
+            "淨化 10 處黑暗腐植"
+        ],
         "candles_today": [
-            "禁閣大蠟燭-2",
-            "暮土季蠟b組-2"
+            "雲野大蠟燭-2",
+            "禁閣季蠟b組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-08-09",
-        "date_tomorrow": "2026-08-10",
+        "date_today": "2026-08-10",
+        "date_tomorrow": "2026-08-11",
         "quests_today": [
-            "对玩家使用表情",
-            "帮助抛球杂耍者和迎宾侍者拯救他们的朋友",
-            "和朋友牵手",
-            "坐赏暮土小树苗"
-        ],
-        "quests_tomorrow": [
             "在禁阁的入口冥想。",
             "加入表演，为丧子的退伍老兵演奏一首歌",
             "在禁阁的知识库避难所捕捉四散的光",
             "和朋友拥抱"
         ],
+        "quests_tomorrow": [
+            "呼唤5位不同玩家",
+            "在云野找到彩虹蜡烛",
+            "在云野重温鼓掌钟匠的记忆",
+            "净化 10 处黑暗腐植"
+        ],
         "candles_today": [
-            "禁阁大蜡烛-2",
-            "暮土季蜡b组-2"
+            "云野大蜡烛-2",
+            "禁阁季蜡b组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-08-09",
-        "date_tomorrow": "2026-08-10",
+        "date_today": "2026-08-10",
+        "date_tomorrow": "2026-08-11",
         "quests_today": [
-            "Use expressions with players",
-            "Help Troupe Juggler and Troupe Greeter save their friends",
-            "Hold a friend's hand",
-            "Admire the sapling in Golden Wasteland for a short while"
-        ],
-        "quests_tomorrow": [
             "Meditate at the Vault's entrance",
             "Join the session and play a song for Bereft Veteran",
             "Catch the wandering lights in the Vault's Repository",
             "Hug a friend"
         ],
+        "quests_tomorrow": [
+            "Call to 5 different players",
+            "Find the candles at the end of the rainbow in Daylight Prairie",
+            "Relive Applauding Bellmaker's memory from Daylight Prairie",
+            "Melt 10 darkness"
+        ],
         "candles_today": [
-            "Vault of Knowledge Treasure Candle-2",
-            "Gloden Wasteland Season Candle group:b-2"
+            "Daylight Prairie Treasure Candle-2",
+            "Vault of Knowledge Season Candle group:b-2"
         ],
         "candles_tomorrow": []
     }

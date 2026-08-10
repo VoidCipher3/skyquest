@@ -286,5 +286,37 @@
             "Vault of Knowledge Treasure Candle-2",
             "Gloden Wasteland Season Candle group:b-2"
         ]
+    },
+    "2026-08-10": {
+        "tw": [
+            "在禁閣的入口處進行冥想。",
+            "加入表演，為喪子的退伍老兵演奏一首歌",
+            "在知識庫避難所捕捉四散的光",
+            "和朋友擁抱"
+        ],
+        "candles_tw": [
+            "雲野大蠟燭-2",
+            "禁閣季蠟b組-2"
+        ],
+        "cn": [
+            "在禁阁的入口冥想。",
+            "加入表演，为丧子的退伍老兵演奏一首歌",
+            "在禁阁的知识库避难所捕捉四散的光",
+            "和朋友拥抱"
+        ],
+        "candles_cn": [
+            "云野大蜡烛-2",
+            "禁阁季蜡b组-2"
+        ],
+        "en": [
+            "Meditate at the Vault's entrance",
+            "Join the session and play a song for Bereft Veteran",
+            "Catch the wandering lights in the Vault's Repository",
+            "Hug a friend"
+        ],
+        "candles_en": [
+            "Daylight Prairie Treasure Candle-2",
+            "Vault of Knowledge Season Candle group:b-2"
+        ]
     }
 }
