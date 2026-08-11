@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-08-10 15:01:10 (GMT+8)",
+    "updated_at": "2026-08-11 15:00:47 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-08-10",
-        "date_tomorrow": "2026-08-11",
+        "date_today": "2026-08-11",
+        "date_tomorrow": "2026-08-12",
         "quests_today": [
-            "在禁閣的入口處進行冥想。",
-            "加入表演，為喪子的退伍老兵演奏一首歌",
-            "在知識庫避難所捕捉四散的光",
-            "和朋友擁抱"
-        ],
-        "quests_tomorrow": [
             "對 5 位不同玩家發出叫聲",
             "找到雲野的彩虹蠟燭",
             "重溫鼓掌鐘匠在雲野的記憶",
             "淨化 10 處黑暗腐植"
         ],
+        "quests_tomorrow": [
+            "欣賞一下雨林小樹苗",
+            "在雨林小溪捕捉四散的光",
+            "抱起一隻暗蟹",
+            "向一位玩家揮手"
+        ],
         "candles_today": [
-            "雲野大蠟燭-2",
-            "禁閣季蠟b組-2"
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-08-10",
-        "date_tomorrow": "2026-08-11",
+        "date_today": "2026-08-11",
+        "date_tomorrow": "2026-08-12",
         "quests_today": [
-            "在禁阁的入口冥想。",
-            "加入表演，为丧子的退伍老兵演奏一首歌",
-            "在禁阁的知识库避难所捕捉四散的光",
-            "和朋友拥抱"
-        ],
-        "quests_tomorrow": [
             "呼唤5位不同玩家",
             "在云野找到彩虹蜡烛",
             "在云野重温鼓掌钟匠的记忆",
             "净化 10 处黑暗腐植"
         ],
+        "quests_tomorrow": [
+            "坐赏雨林小树苗",
+            "在雨林小溪捕捉四散的光",
+            "抱起一只暗蟹",
+            "向一位玩家挥手"
+        ],
         "candles_today": [
-            "云野大蜡烛-2",
-            "禁阁季蜡b组-2"
+            "雨林大蜡烛-3",
+            "云野季蜡b组-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-08-10",
-        "date_tomorrow": "2026-08-11",
+        "date_today": "2026-08-11",
+        "date_tomorrow": "2026-08-12",
         "quests_today": [
-            "Meditate at the Vault's entrance",
-            "Join the session and play a song for Bereft Veteran",
-            "Catch the wandering lights in the Vault's Repository",
-            "Hug a friend"
-        ],
-        "quests_tomorrow": [
             "Call to 5 different players",
             "Find the candles at the end of the rainbow in Daylight Prairie",
             "Relive Applauding Bellmaker's memory from Daylight Prairie",
             "Melt 10 darkness"
         ],
+        "quests_tomorrow": [
+            "Admire the sapling in the Hidden Forest for a short while",
+            "Catch the wandering lights in the Forest Brook",
+            "Pick up a Crab",
+            "Wave to a player"
+        ],
         "candles_today": [
-            "Daylight Prairie Treasure Candle-2",
-            "Vault of Knowledge Season Candle group:b-2"
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-1"
         ],
         "candles_tomorrow": []
     }

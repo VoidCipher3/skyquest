@@ -318,5 +318,37 @@
             "Daylight Prairie Treasure Candle-2",
             "Vault of Knowledge Season Candle group:b-2"
         ]
+    },
+    "2026-08-11": {
+        "tw": [
+            "對 5 位不同玩家發出叫聲",
+            "找到雲野的彩虹蠟燭",
+            "重溫鼓掌鐘匠在雲野的記憶",
+            "淨化 10 處黑暗腐植"
+        ],
+        "candles_tw": [
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-1"
+        ],
+        "cn": [
+            "呼唤5位不同玩家",
+            "在云野找到彩虹蜡烛",
+            "在云野重温鼓掌钟匠的记忆",
+            "净化 10 处黑暗腐植"
+        ],
+        "candles_cn": [
+            "雨林大蜡烛-3",
+            "云野季蜡b组-1"
+        ],
+        "en": [
+            "Call to 5 different players",
+            "Find the candles at the end of the rainbow in Daylight Prairie",
+            "Relive Applauding Bellmaker's memory from Daylight Prairie",
+            "Melt 10 darkness"
+        ],
+        "candles_en": [
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-1"
+        ]
     }
 }
