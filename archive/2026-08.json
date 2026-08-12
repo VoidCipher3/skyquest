@@ -350,5 +350,37 @@
             "Hidden Forest Treasure Candle-3",
             "Daylight Prairie Season Candle group:b-1"
         ]
+    },
+    "2026-08-12": {
+        "tw": [
+            "欣賞一下雨林小樹苗",
+            "在雨林小溪捕捉四散的光",
+            "抱起一隻暗蟹",
+            "向一位玩家揮手"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "坐赏雨林小树苗",
+            "在雨林小溪捕捉四散的光",
+            "抱起一只暗蟹",
+            "向一位玩家挥手"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Admire the sapling in the Hidden Forest for a short while",
+            "Catch the wandering lights in the Forest Brook",
+            "Pick up a Crab",
+            "Wave to a player"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }
