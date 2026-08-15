@@ -446,5 +446,37 @@
             "Vault of Knowledge Treasure Candle-1",
             "Gloden Wasteland Season Candle group:b-1"
         ]
+    },
+    "2026-08-15": {
+        "tw": [
+            "對其他玩家使用表情",
+            "抓住禁閣之光",
+            "重溫氣功高人在禁閣的記憶",
+            "點亮 20 根蠟燭"
+        ],
+        "candles_tw": [
+            "禁閣季蠟b組-1",
+            "雲野大蠟燭-3"
+        ],
+        "cn": [
+            "对玩家使用表情",
+            "抓住禁阁之光",
+            "在禁阁重温气功高人的记忆",
+            "点亮 20 根蜡烛"
+        ],
+        "candles_cn": [
+            "禁阁季蜡b组-1",
+            "云野大蜡烛-3"
+        ],
+        "en": [
+            "Use expressions with players",
+            "Catch the light in the Vault of Knowledge",
+            "Relive Levitating Adept's memory from Vault of Knowledge",
+            "Light 20 candles"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:b-1",
+            "Daylight Prairie Treasure Candle-3"
+        ]
     }
 }
