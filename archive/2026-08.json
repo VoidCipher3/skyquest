@@ -478,5 +478,37 @@
             "Vault of Knowledge Season Candle group:b-1",
             "Daylight Prairie Treasure Candle-3"
         ]
+    },
+    "2026-08-16": {
+        "tw": [
+            "在蝴蝶原野與眾多蝴蝶一同飛翔",
+            "前往雲野山洞找到舒適的藏身處",
+            "與翻滾搗蛋鬼一起搗蛋",
+            "乘坐光鰩"
+        ],
+        "candles_tw": [
+            "雲野季蠟b組-2",
+            "雨林大蠟燭-1"
+        ],
+        "cn": [
+            "在蝴蝶原野与众多蝴蝶一同飞翔",
+            "前往云野山洞找到舒适的藏身处",
+            "与翻滚捣蛋鬼一起捣蛋",
+            "乘着光鳐兜风"
+        ],
+        "candles_cn": [
+            "云野季蜡b组-2",
+            "雨林大蜡烛-1"
+        ],
+        "en": [
+            "Fly with many butterflies in Butterfly Fields",
+            "Visit the cozy hideout in Prairie Caves",
+            "Join Tumbling Troublemaker making trouble",
+            "Ride with a Manta"
+        ],
+        "candles_en": [
+            "Daylight Prairie Season Candle group:b-2",
+            "Hidden Forest Treasure Candle-1"
+        ]
     }
 }
