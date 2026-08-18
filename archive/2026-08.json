@@ -542,5 +542,37 @@
             "Hidden Forest Season Candle group:b-2",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-08-18": {
+        "tw": [
+            "欣賞一下霞谷小樹苗",
+            "重溫偷窺郵差在霞谷的記憶",
+            "拜訪圓夢村的溫泉",
+            "向一位玩家揮手"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-2",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "坐赏霞谷小树苗",
+            "在霞谷重温偷窥邮差的记忆",
+            "拜访园梦村的温泉",
+            "向一位玩家挥手"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-2",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Admire the sapling in Valley of Triumph for a short while",
+            "Relive Peeking Postman's memory from Valley of Triumph",
+            "Visit the Hotspring in the Village of Dreams",
+            "Wave to a player"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-2",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
