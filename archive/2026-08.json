@@ -606,5 +606,37 @@
             "Vault of Knowledge Treasure Candle-2",
             "Gloden Wasteland Season Candle group:b-2"
         ]
+    },
+    "2026-08-20": {
+        "tw": [
+            "用燭光凝聚成一根蠟燭",
+            "重溫靜光學者在禁閣的記憶",
+            "找到禁閣的彩虹蠟燭",
+            "在禁閣上層捕捉四散的光"
+        ],
+        "candles_tw": [
+            "禁閣季蠟b組-2",
+            "雲野大蠟燭-1"
+        ],
+        "cn": [
+            "用烛光凝聚成一根蜡烛",
+            "在禁阁重温静光学者的记忆",
+            "在禁阁找到彩虹蜡烛",
+            "在禁阁上层捕捉四散的光"
+        ],
+        "candles_cn": [
+            "禁阁季蜡b组-2",
+            "云野大蜡烛-1"
+        ],
+        "en": [
+            "Forge a candle",
+            "Relive Shushing Light Scholar's memory from Vault of Knowledge",
+            "Find the candles at the end of the rainbow in the Vault of Knowledge",
+            "Catch the wandering lights in the Upper Vault"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Season Candle group:b-2",
+            "Daylight Prairie Treasure Candle-1"
+        ]
     }
 }
