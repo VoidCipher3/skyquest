@@ -670,5 +670,37 @@
             "Hidden Forest Treasure Candle-2",
             "Daylight Prairie Season Candle group:b-1"
         ]
+    },
+    "2026-08-22": {
+        "tw": [
+            "點亮一位陌生玩家",
+            "淨化 10 處黑暗腐植",
+            "幫助憂鬱垂頭仔找回遺失的詩集",
+            "透過光菇重新恢復能量"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1"
+        ],
+        "cn": [
+            "交一个新朋友",
+            "净化 10 处黑暗腐植",
+            "帮助郁郁寡欢者找回丢失的诗集",
+            "用光菇重新恢复能量"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1"
+        ],
+        "en": [
+            "Make a new acquaintance",
+            "Melt 10 darkness",
+            "Help Melancholy Mope retrieve their lost poetry book",
+            "Recharge your light from a light bloom"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1"
+        ]
     }
 }

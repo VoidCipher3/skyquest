@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-08-21 15:01:15 (GMT+8)",
+    "updated_at": "2026-08-22 15:00:32 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-08-21",
-        "date_tomorrow": "2026-08-22",
+        "date_today": "2026-08-22",
+        "date_tomorrow": "2026-08-23",
         "quests_today": [
-            "收集 綠色光芒",
-            "在聖域群島乘坐一隻大光鰩",
-            "拜訪聖域群島上遭受汙染的間歇泉",
-            "對其他玩家使用表情"
-        ],
-        "quests_tomorrow": [
             "點亮一位陌生玩家",
             "淨化 10 處黑暗腐植",
             "幫助憂鬱垂頭仔找回遺失的詩集",
             "透過光菇重新恢復能量"
         ],
+        "quests_tomorrow": [
+            "向一位玩家鞠躬",
+            "收集藍色光芒 ",
+            "抓住霞谷之光",
+            "重溫跳躍舞者在霞谷的記憶"
+        ],
         "candles_today": [
-            "雨林大蠟燭-2",
-            "雲野季蠟b組-1"
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-08-21",
-        "date_tomorrow": "2026-08-22",
+        "date_today": "2026-08-22",
+        "date_tomorrow": "2026-08-23",
         "quests_today": [
-            "收集 绿色光芒",
-            "在圣域群岛乘坐一只大光鳐",
-            "拜访圣域群岛上遭受污染的间歇泉",
-            "对玩家使用表情"
-        ],
-        "quests_tomorrow": [
             "交一个新朋友",
             "净化 10 处黑暗腐植",
             "帮助郁郁寡欢者找回丢失的诗集",
             "用光菇重新恢复能量"
         ],
+        "quests_tomorrow": [
+            "向一位玩家鞠躬",
+            "收集蓝色光芒 ",
+            "抓住霞谷之光",
+            "在霞谷重温跳跃舞者的记忆"
+        ],
         "candles_today": [
-            "雨林大蜡烛-2",
-            "云野季蜡b组-1"
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-08-21",
-        "date_tomorrow": "2026-08-22",
+        "date_today": "2026-08-22",
+        "date_tomorrow": "2026-08-23",
         "quests_today": [
-            "Collect Green Light",
-            "Ride a giant manta in Sanctuary Islands",
-            "Visit the polluted geyser in Sanctuary Islands",
-            "Use expressions with players"
-        ],
-        "quests_tomorrow": [
             "Make a new acquaintance",
             "Melt 10 darkness",
             "Help Melancholy Mope retrieve their lost poetry book",
             "Recharge your light from a light bloom"
         ],
+        "quests_tomorrow": [
+            "Bow at a player",
+            "Collect Blue Light ",
+            "Catch the light in Valley of Triumph",
+            "Relive Leaping Dancer's memory from Valley of Triumph"
+        ],
         "candles_today": [
-            "Hidden Forest Treasure Candle-2",
-            "Daylight Prairie Season Candle group:b-1"
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
