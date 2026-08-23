@@ -702,5 +702,37 @@
             "Hidden Forest Season Candle group:b-1",
             "Valley of Triumph Treasure Candle-1"
         ]
+    },
+    "2026-08-23": {
+        "tw": [
+            "向一位玩家鞠躬",
+            "收集藍色光芒 ",
+            "抓住霞谷之光",
+            "重溫跳躍舞者在霞谷的記憶"
+        ],
+        "candles_tw": [
+            "暮土大蠟燭-2",
+            "霞谷季蠟b組-1"
+        ],
+        "cn": [
+            "向一位玩家鞠躬",
+            "收集蓝色光芒 ",
+            "抓住霞谷之光",
+            "在霞谷重温跳跃舞者的记忆"
+        ],
+        "candles_cn": [
+            "暮土大蜡烛-2",
+            "霞谷季蜡b组-1"
+        ],
+        "en": [
+            "Bow at a player",
+            "Collect Blue Light ",
+            "Catch the light in Valley of Triumph",
+            "Relive Leaping Dancer's memory from Valley of Triumph"
+        ],
+        "candles_en": [
+            "Gloden Wasteland Treasure Candle-2",
+            "Valley of Triumph Season Candle group:b-1"
+        ]
     }
 }
