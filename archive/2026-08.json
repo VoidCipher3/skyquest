@@ -734,5 +734,37 @@
             "Gloden Wasteland Treasure Candle-2",
             "Valley of Triumph Season Candle group:b-1"
         ]
+    },
+    "2026-08-24": {
+        "tw": [
+            "點亮 20 根蠟燭",
+            "與笨拙的水手長欣賞共享空間",
+            "在寶礁海底捕捉四散的光",
+            "向一位玩家揮手"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "暮土季蠟b組-1"
+        ],
+        "cn": [
+            "点亮 20 根蜡烛",
+            "与笨拙水手一起欣赏共享空间",
+            "在宝礁海底捕捉四散的光",
+            "向一位玩家挥手"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "暮土季蜡b组-1"
+        ],
+        "en": [
+            "Light 20 candles",
+            "Admire Shared Spaces with Bumbling Boatswain",
+            "Catch the wandering lights under the sea in Treasure Reef",
+            "Wave to a player"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:b-1"
+        ]
     }
 }
