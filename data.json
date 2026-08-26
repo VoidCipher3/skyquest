@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-08-25 15:00:51 (GMT+8)",
+    "updated_at": "2026-08-26 15:01:11 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-08-25",
-        "date_tomorrow": "2026-08-26",
+        "date_today": "2026-08-26",
+        "date_tomorrow": "2026-08-27",
         "quests_today": [
-            "收集 30 道燭光",
-            "對 5 位不同玩家發出叫聲",
-            "在禁閣神廟冥想",
-            "重溫禮貌學者在禁閣的記憶"
-        ],
-        "quests_tomorrow": [
             "用燭光凝聚成一根蠟燭",
             "抓住雲野之光",
             "在蝴蝶原野冥想",
             "重溫一位雲野先靈的記憶"
         ],
+        "quests_tomorrow": [
+            "抓住雨林之光",
+            "拯救一隻被黑暗腐植困住的光鰩",
+            "啟動神廟橋，向古怪邊緣人介紹一個大驚喜",
+            "在埋骨之地旁冥想"
+        ],
         "candles_today": [
-            "禁閣季蠟b組-1",
-            "雲野大蠟燭-2"
+            "雨林大蠟燭-3",
+            "雲野季蠟b組-2"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-08-25",
-        "date_tomorrow": "2026-08-26",
+        "date_today": "2026-08-26",
+        "date_tomorrow": "2026-08-27",
         "quests_today": [
-            "收集 30 道烛光",
-            "呼唤5位不同玩家",
-            "在禁阁神庙冥想",
-            "在禁阁重温礼貌学者的记忆"
-        ],
-        "quests_tomorrow": [
             "用烛光凝聚成一根蜡烛",
             "抓住云野之光",
             "在蝴蝶原野中冥想",
             "在云野中重温一位先灵的记忆"
         ],
+        "quests_tomorrow": [
+            "抓住雨林之光",
+            "拯救一只被黑暗腐植困住的光鳐",
+            "启动神庙桥梁，为古怪边缘人制造一个大惊喜",
+            "在雨林的埋骨之地旁冥想"
+        ],
         "candles_today": [
-            "禁阁季蜡b组-1",
-            "云野大蜡烛-2"
+            "雨林大蜡烛-3",
+            "云野季蜡b组-2"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-08-25",
-        "date_tomorrow": "2026-08-26",
+        "date_today": "2026-08-26",
+        "date_tomorrow": "2026-08-27",
         "quests_today": [
-            "Collect 30 pieces of light",
-            "Call to 5 different players",
-            "Meditate at the Temple of the Vault",
-            "Relive Polite Scholar's memory from Vault of Knowledge"
-        ],
-        "quests_tomorrow": [
             "Forge a candle",
             "Catch the light in Daylight Prairie",
             "Meditate in Butterfly Fields",
             "Relive a Spirit's memories in Daylight Prairie"
         ],
+        "quests_tomorrow": [
+            "Catch the light in Hidden Forest",
+            "Rescue a manta from darkness",
+            "Introduce Oddball Outcast to a big surprise by activating the temple bridge",
+            "Meditate by the Forest's Boneyard"
+        ],
         "candles_today": [
-            "Vault of Knowledge Season Candle group:b-1",
-            "Daylight Prairie Treasure Candle-2"
+            "Hidden Forest Treasure Candle-3",
+            "Daylight Prairie Season Candle group:b-2"
         ],
         "candles_tomorrow": []
     }
