@@ -830,5 +830,37 @@
             "Hidden Forest Treasure Candle-3",
             "Daylight Prairie Season Candle group:b-2"
         ]
+    },
+    "2026-08-27": {
+        "tw": [
+            "抓住雨林之光",
+            "拯救一隻被黑暗腐植困住的光鰩",
+            "啟動神廟橋，向古怪邊緣人介紹一個大驚喜",
+            "在埋骨之地旁冥想"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-2",
+            "霞谷大蠟燭-2"
+        ],
+        "cn": [
+            "抓住雨林之光",
+            "拯救一只被黑暗腐植困住的光鳐",
+            "启动神庙桥梁，为古怪边缘人制造一个大惊喜",
+            "在雨林的埋骨之地旁冥想"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-2",
+            "霞谷大蜡烛-2"
+        ],
+        "en": [
+            "Catch the light in Hidden Forest",
+            "Rescue a manta from darkness",
+            "Introduce Oddball Outcast to a big surprise by activating the temple bridge",
+            "Meditate by the Forest's Boneyard"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-2",
+            "Valley of Triumph Treasure Candle-2"
+        ]
     }
 }
