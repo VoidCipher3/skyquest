@@ -862,5 +862,37 @@
             "Hidden Forest Season Candle group:b-2",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-08-28": {
+        "tw": [
+            "對 5 位不同玩家發出叫聲",
+            "重溫鰩語者在霞谷的記憶",
+            "在霞谷城堡高處冥想",
+            "找到霞谷的彩虹蠟燭"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-2",
+            "暮土大蠟燭-3"
+        ],
+        "cn": [
+            "呼唤5位不同玩家",
+            "在霞谷重温鳐语者的记忆",
+            "在霞谷城堡高处冥想",
+            "在霞谷找到彩虹蜡烛"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-2",
+            "暮土大蜡烛-3"
+        ],
+        "en": [
+            "Call to 5 different players",
+            "Relive Manta Whisperer's memory from Valley of Triumph",
+            "Meditate high above The Citadel",
+            "Find the candles at the end of the rainbow in the Valley of Triumph"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-2",
+            "Gloden Wasteland Treasure Candle-3"
+        ]
     }
 }
