@@ -894,5 +894,37 @@
             "Valley of Triumph Season Candle group:b-2",
             "Gloden Wasteland Treasure Candle-3"
         ]
+    },
+    "2026-08-29": {
+        "tw": [
+            "淨化 10 處黑暗腐植",
+            "重溫蟹語者在暮土的記憶",
+            "面對冥龍",
+            "對其他玩家使用表情"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-2",
+            "暮土季蠟b組-2"
+        ],
+        "cn": [
+            "净化 10 处黑暗腐植",
+            "在暮土重温蟹语者的记忆",
+            "面对冥龙",
+            "对玩家使用表情"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-2",
+            "暮土季蜡b组-2"
+        ],
+        "en": [
+            "Melt 10 darkness",
+            "Relive Crab Whisperer's memory from Golden Wasteland",
+            "Face the Dark Dragon",
+            "Use expressions with players"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-2",
+            "Gloden Wasteland Season Candle group:b-2"
+        ]
     }
 }
