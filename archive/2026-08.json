@@ -926,5 +926,37 @@
             "Vault of Knowledge Treasure Candle-2",
             "Gloden Wasteland Season Candle group:b-2"
         ]
+    },
+    "2026-08-30": {
+        "tw": [
+            "欣賞一下禁閣小樹苗",
+            "向一位玩家鞠躬",
+            "在知識庫避難所捕捉四散的光",
+            "重溫一位禁閣先靈的記憶"
+        ],
+        "candles_tw": [
+            "雲野大蠟燭-3",
+            "禁閣季蠟b組-2"
+        ],
+        "cn": [
+            "坐赏禁阁小树苗",
+            "向一位玩家鞠躬",
+            "在禁阁的知识库避难所捕捉四散的光",
+            "在禁阁中重温一位先灵的记忆"
+        ],
+        "candles_cn": [
+            "云野大蜡烛-3",
+            "禁阁季蜡b组-2"
+        ],
+        "en": [
+            "Admire the sapling in the Vault of Knowledge for a short while",
+            "Bow at a player",
+            "Catch the wandering lights in the Vault's Repository",
+            "Relive a Spirit's memories in Vault of Knowledge"
+        ],
+        "candles_en": [
+            "Daylight Prairie Treasure Candle-3",
+            "Vault of Knowledge Season Candle group:b-2"
+        ]
     }
 }
