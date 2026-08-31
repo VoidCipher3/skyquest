@@ -1,68 +1,68 @@
 {
-    "updated_at": "2026-08-30 15:01:10 (GMT+8)",
+    "updated_at": "2026-08-31 15:01:05 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-08-30",
-        "date_tomorrow": "2026-08-31",
+        "date_today": "2026-08-31",
+        "date_tomorrow": "2026-09-01",
         "quests_today": [
-            "欣賞一下禁閣小樹苗",
-            "向一位玩家鞠躬",
-            "在知識庫避難所捕捉四散的光",
-            "重溫一位禁閣先靈的記憶"
-        ],
-        "quests_tomorrow": [
             "重溫彩紙表親在雲野的記憶",
             "向一位玩家揮手",
             "找到雲野的彩虹蠟燭",
             "在雲野神廟外的錦鯉池旁冥想"
         ],
+        "quests_tomorrow": [
+            "用燭光凝聚成一根蠟燭",
+            "對其他玩家使用表情",
+            "整理樹林高處的先祖團聚長桌",
+            "重溫蓬頭青年在雨林的記憶"
+        ],
         "candles_today": [
-            "雲野大蠟燭-3",
-            "禁閣季蠟b組-2"
+            "雲野季蠟b組-1",
+            "雨林大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-08-30",
-        "date_tomorrow": "2026-08-31",
+        "date_today": "2026-08-31",
+        "date_tomorrow": "2026-09-01",
         "quests_today": [
-            "坐赏禁阁小树苗",
-            "向一位玩家鞠躬",
-            "在禁阁的知识库避难所捕捉四散的光",
-            "在禁阁中重温一位先灵的记忆"
-        ],
-        "quests_tomorrow": [
             "在云野重温彩纸表亲的记忆",
             "向一位玩家挥手",
             "在云野找到彩虹蜡烛",
             "在云野神庙外的锦鲤池旁冥想"
         ],
+        "quests_tomorrow": [
+            "用烛光凝聚成一根蜡烛",
+            "对玩家使用表情",
+            "整理树林高处的先祖团聚长桌",
+            "在雨林重温蓬头青年的记忆"
+        ],
         "candles_today": [
-            "云野大蜡烛-3",
-            "禁阁季蜡b组-2"
+            "云野季蜡b组-1",
+            "雨林大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-08-30",
-        "date_tomorrow": "2026-08-31",
+        "date_today": "2026-08-31",
+        "date_tomorrow": "2026-09-01",
         "quests_today": [
-            "Admire the sapling in the Vault of Knowledge for a short while",
-            "Bow at a player",
-            "Catch the wandering lights in the Vault's Repository",
-            "Relive a Spirit's memories in Vault of Knowledge"
-        ],
-        "quests_tomorrow": [
             "Relive Confetti Cousin's memory from Daylight Prairie",
             "Wave to a player",
             "Find the candles at the end of the rainbow in Daylight Prairie",
             "Meditate by the koi pond outside the Temple of the Prairie"
         ],
+        "quests_tomorrow": [
+            "Forge a candle",
+            "Use expressions with players",
+            "Tidy up the Ancestor's table in the Elevated Clearing",
+            "Relive Hairtousle Teen's memory from Hidden Forest"
+        ],
         "candles_today": [
-            "Daylight Prairie Treasure Candle-3",
-            "Vault of Knowledge Season Candle group:b-2"
+            "Daylight Prairie Season Candle group:b-1",
+            "Hidden Forest Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }
