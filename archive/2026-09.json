@@ -1,0 +1,37 @@
+{
+    "2026-09-01": {
+        "tw": [
+            "用燭光凝聚成一根蠟燭",
+            "對其他玩家使用表情",
+            "整理樹林高處的先祖團聚長桌",
+            "重溫蓬頭青年在雨林的記憶"
+        ],
+        "candles_tw": [
+            "雨林季蠟b組-1",
+            "霞谷大蠟燭-1",
+            "霞谷大蠟燭-2"
+        ],
+        "cn": [
+            "用烛光凝聚成一根蜡烛",
+            "对玩家使用表情",
+            "整理树林高处的先祖团聚长桌",
+            "在雨林重温蓬头青年的记忆"
+        ],
+        "candles_cn": [
+            "雨林季蜡b组-1",
+            "霞谷大蜡烛-1",
+            "霞谷大蜡烛-2"
+        ],
+        "en": [
+            "Forge a candle",
+            "Use expressions with players",
+            "Tidy up the Ancestor's table in the Elevated Clearing",
+            "Relive Hairtousle Teen's memory from Hidden Forest"
+        ],
+        "candles_en": [
+            "Hidden Forest Season Candle group:b-1",
+            "Valley of Triumph Treasure Candle-1",
+            "Valley of Triumph Treasure Candle-2"
+        ]
+    }
+}
