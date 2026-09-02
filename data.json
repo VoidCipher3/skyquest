@@ -1,71 +1,68 @@
 {
-    "updated_at": "2026-09-01 15:00:33 (GMT+8)",
+    "updated_at": "2026-09-02 15:01:11 (GMT+8)",
     "tw": {
         "title": "繁體中文",
-        "date_today": "2026-09-01",
-        "date_tomorrow": "2026-09-02",
+        "date_today": "2026-09-02",
+        "date_tomorrow": "2026-09-03",
         "quests_today": [
-            "用燭光凝聚成一根蠟燭",
-            "對其他玩家使用表情",
-            "整理樹林高處的先祖團聚長桌",
-            "重溫蓬頭青年在雨林的記憶"
-        ],
-        "quests_tomorrow": [
             "在俯瞰冰封湖的位置冥想",
             "收集 30 道燭光",
             "沿著霞谷下層賽道捕捉四散的光",
             "重溫鞠躬季軍在霞谷的記憶"
         ],
+        "quests_tomorrow": [
+            "抱起一隻暗蟹",
+            "點亮一位陌生玩家",
+            "在寶礁中欣賞一下彩虹",
+            "捕一條魚"
+        ],
         "candles_today": [
-            "雨林季蠟b組-1",
-            "霞谷大蠟燭-1",
-            "霞谷大蠟燭-2"
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-1"
         ],
         "candles_tomorrow": []
     },
     "cn": {
         "title": "简体中文",
-        "date_today": "2026-09-01",
-        "date_tomorrow": "2026-09-02",
+        "date_today": "2026-09-02",
+        "date_tomorrow": "2026-09-03",
         "quests_today": [
-            "用烛光凝聚成一根蜡烛",
-            "对玩家使用表情",
-            "整理树林高处的先祖团聚长桌",
-            "在雨林重温蓬头青年的记忆"
-        ],
-        "quests_tomorrow": [
             "在俯瞰冰封湖的位置冥想",
             "收集 30 道烛光",
             "在下层霞谷赛道捕捉漫游之光",
             "在霞谷重温鞠躬季军的记忆"
         ],
+        "quests_tomorrow": [
+            "抱起一只暗蟹",
+            "交一个新朋友",
+            "在宝藏暗礁欣赏一下彩虹",
+            "捕捉一条鱼"
+        ],
         "candles_today": [
-            "雨林季蜡b组-1",
-            "霞谷大蜡烛-1",
-            "霞谷大蜡烛-2"
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-1"
         ],
         "candles_tomorrow": []
     },
     "en": {
         "title": "English",
-        "date_today": "2026-09-01",
-        "date_tomorrow": "2026-09-02",
+        "date_today": "2026-09-02",
+        "date_tomorrow": "2026-09-03",
         "quests_today": [
-            "Forge a candle",
-            "Use expressions with players",
-            "Tidy up the Ancestor's table in the Elevated Clearing",
-            "Relive Hairtousle Teen's memory from Hidden Forest"
-        ],
-        "quests_tomorrow": [
             "Meditate overlooking the Frozen Lake",
             "Collect 30 pieces of light",
             "Catch the wandering lights along the Lower Valley Track",
             "Relive Bowing Medalist's memory from Valley of Triumph"
         ],
+        "quests_tomorrow": [
+            "Pick up a Crab",
+            "Make a new acquaintance",
+            "Admire the rainbow in Treasure Reef for a short while",
+            "Catch a fish"
+        ],
         "candles_today": [
-            "Hidden Forest Season Candle group:b-1",
-            "Valley of Triumph Treasure Candle-1",
-            "Valley of Triumph Treasure Candle-2"
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-1"
         ],
         "candles_tomorrow": []
     }

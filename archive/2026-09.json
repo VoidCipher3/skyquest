@@ -33,5 +33,37 @@
             "Valley of Triumph Treasure Candle-1",
             "Valley of Triumph Treasure Candle-2"
         ]
+    },
+    "2026-09-02": {
+        "tw": [
+            "在俯瞰冰封湖的位置冥想",
+            "收集 30 道燭光",
+            "沿著霞谷下層賽道捕捉四散的光",
+            "重溫鞠躬季軍在霞谷的記憶"
+        ],
+        "candles_tw": [
+            "霞谷季蠟b組-1",
+            "暮土大蠟燭-1"
+        ],
+        "cn": [
+            "在俯瞰冰封湖的位置冥想",
+            "收集 30 道烛光",
+            "在下层霞谷赛道捕捉漫游之光",
+            "在霞谷重温鞠躬季军的记忆"
+        ],
+        "candles_cn": [
+            "霞谷季蜡b组-1",
+            "暮土大蜡烛-1"
+        ],
+        "en": [
+            "Meditate overlooking the Frozen Lake",
+            "Collect 30 pieces of light",
+            "Catch the wandering lights along the Lower Valley Track",
+            "Relive Bowing Medalist's memory from Valley of Triumph"
+        ],
+        "candles_en": [
+            "Valley of Triumph Season Candle group:b-1",
+            "Gloden Wasteland Treasure Candle-1"
+        ]
     }
 }
