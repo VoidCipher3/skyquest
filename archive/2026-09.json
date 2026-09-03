@@ -65,5 +65,37 @@
             "Valley of Triumph Season Candle group:b-1",
             "Gloden Wasteland Treasure Candle-1"
         ]
+    },
+    "2026-09-03": {
+        "tw": [
+            "抱起一隻暗蟹",
+            "點亮一位陌生玩家",
+            "在寶礁中欣賞一下彩虹",
+            "捕一條魚"
+        ],
+        "candles_tw": [
+            "禁閣大蠟燭-1",
+            "暮土季蠟b組-1"
+        ],
+        "cn": [
+            "抱起一只暗蟹",
+            "交一个新朋友",
+            "在宝藏暗礁欣赏一下彩虹",
+            "捕捉一条鱼"
+        ],
+        "candles_cn": [
+            "禁阁大蜡烛-1",
+            "暮土季蜡b组-1"
+        ],
+        "en": [
+            "Pick up a Crab",
+            "Make a new acquaintance",
+            "Admire the rainbow in Treasure Reef for a short while",
+            "Catch a fish"
+        ],
+        "candles_en": [
+            "Vault of Knowledge Treasure Candle-1",
+            "Gloden Wasteland Season Candle group:b-1"
+        ]
     }
 }
